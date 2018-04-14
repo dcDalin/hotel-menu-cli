@@ -1,6 +1,6 @@
 # Menu CLI API
 
-![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/dcDalin/hotel-menu-cli) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/dcDalin/hotel-menu-cli) ![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)
 
 This is a Python Click CLI backed by a Python Flask API implementation of a relatively simple Hotel Menu ordering sort of system.
 
@@ -34,6 +34,12 @@ Activate the virtual environment
 $ source venv/bin/activate
 ```
 
+Install the project dependencies
+
+```sh
+$ pip install -r requirements.txt
+```
+
 Install the CLI on the virtual environment
 
 ```sh
@@ -57,8 +63,9 @@ $ mymenu --help
 ```
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/dcDalin/)
+
 **Dalin Oluoch**
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dcDalin/hotel-menu-cli/blob/master/LICENSE) file for details
